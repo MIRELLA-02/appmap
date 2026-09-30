@@ -35,11 +35,11 @@ Ao clicar em um ponto do mapa, o aplicativo identifica as coordenadas do local e
 
 ### Tela inicial
 
-<img src="./assets/print2.png" width="500">
+<img src="./assets/print2.png" width="300">
 
 ### Ponto selecionado no mapa
 
-<img src="./assets/print1.png" width="500">
+<img src="./assets/print1.png" width="300">
 
 ## ▶️ Como executar
 
