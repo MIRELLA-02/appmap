@@ -39,7 +39,7 @@ Ao clicar em um ponto do mapa, o aplicativo identifica as coordenadas do local e
 
 ### Ponto selecionado no mapa
 
-<img src="./assets/print1.png" width="700">
+<img src="./assets/print1.png" width="500">
 
 ## ▶️ Como executar
 
